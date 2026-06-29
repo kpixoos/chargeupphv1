@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "mobile",
+    "slug": "mobile",
+    "version": "1.0.0",
+    "sdkVersion": "56.0.0",
+    "platforms": ["android", "ios"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "owner": "kpixoos",
+    "projectId": "21e6cc38-1cde-4eaa-81c6-033b6b34b11e"
+  }
+}
